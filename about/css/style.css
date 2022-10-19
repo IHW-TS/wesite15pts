@@ -5,7 +5,8 @@ body {
 
 /*  LOGIN PAGE  */
 .login {
-    background: #763C31 url('../img/bg1.jpg') no-repeat fixed center;
+    background: #763C31 url('../img/skr.jpg') no-repeat ;
+	background-size: cover;
     height: 96vh;
     display: flex;
     align-items: center;
